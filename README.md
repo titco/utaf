@@ -1,8 +1,3 @@
----
-editor_options: 
-  markdown: 
-    wrap: 72
----
 
 # Usefulness of trauma audit filters - A delphi survey
 
