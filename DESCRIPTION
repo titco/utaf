@@ -1,0 +1,14 @@
+Package: utaf
+Title: Usefulness of trauma audit filters 
+Version: 1.0
+Authors@R: 
+    person(given = "Johanna",
+           family = "Berg",
+           role = c("aut", "cre"),
+           email = "johanna.berg@ki.se")
+Description: This package contain data and code for the paper Perceived usefulness of trauma audit filters in urban India: a mixed-methods multicenter Delphi study comparing filters from the World Health Organization and Low-and-Middle-Income Countries."
+License: CC BY 4.0
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
