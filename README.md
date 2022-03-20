@@ -20,7 +20,7 @@ Load the data using utaf::\<dataset\>
 
 ### Documentation
 
-Metadata and variable descriptions is available in the manual pages in
+Metadata and variable descriptions are available in the manual pages in
 the `man` folder.
 
 <!-- badges: start -->
