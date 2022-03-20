@@ -21,7 +21,12 @@ Using devtools, install directly from R using:
 
 `install_github("titco/utaf")`
 
-Load the data using utaf::\<data\>
+Load the data using utaf::\<dataset\>
+
+### Documentation
+
+Metadata and variable descriptions is available in the manual pages in
+the `man` folder.
 
 <!-- badges: start -->
 
